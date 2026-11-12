@@ -1,0 +1,4 @@
+*** WooCommerce ***
+
+2026-11-17 - Version 12.0.0.10
+* Update - Deploy of WooCommerce 12.0.0.10
